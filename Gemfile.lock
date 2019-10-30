@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rss (0.2.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rss
+
+RUBY VERSION
+   ruby 2.6.2p47
+
+BUNDLED WITH
+   1.17.2
