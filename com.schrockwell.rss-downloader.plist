@@ -10,6 +10,8 @@
   <true/>
   <key>Label</key>
   <string>com.schrockwell.rss-downloader</string>
+  <key>WorkingDirectory</key>
+  <string>/Users/rockwell/Projects/rss-downloader-rb</string>
   <key>ProgramArguments</key>
   <array>
     <string>/Users/rockwell/.rvm/wrappers/ruby-2.6.2@rss-downloader/ruby</string>
