@@ -37,7 +37,7 @@ config.dests.each do |dest|
           if options[:skip]
             ok = true
           else
-            ok = system('wget', '-N', '-q', '--content-disposition', item.link)
+            ok = system('/usr/local/bin/wget', '-N', '-q', '--content-disposition', item.link)
           end
 
           if ok
